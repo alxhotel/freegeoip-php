@@ -1,0 +1,14 @@
+{
+    "name": "alxhotel/freegeoip-php",
+    "description": "IP geolocation web server in PHP",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alxmorais8@msn.com"
+        }
+    ]
+}
